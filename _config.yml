@@ -6,4 +6,4 @@ show_drafts: false
 plugins:
   - jekyll-seo-tag
 baseurl: "/"
-repository: "pauliver/Photo-Gallery-Template"
+repository: "ImageLearning/Octocat-Dataset"
