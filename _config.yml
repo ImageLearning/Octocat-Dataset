@@ -10,4 +10,4 @@ repository: "ImageLearning/Octocat-Dataset"
 
 plugins:
   - jekyll-seo-tag
-UA-161446082-1: UA-161446082-1
+google_analytics: UA-161446082-1
