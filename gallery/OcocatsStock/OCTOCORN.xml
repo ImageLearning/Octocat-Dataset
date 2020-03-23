@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>OCTOCORN.png</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\OCTOCORN.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2479</width>
+		<height>2369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>octocorn</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>165</ymin>
+			<xmax>1990</xmax>
+			<ymax>2369</ymax>
+		</bndbox>
+	</object>
+</annotation>

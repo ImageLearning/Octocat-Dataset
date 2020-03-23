@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>plumber.jpg</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\plumber.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>46</ymin>
+			<xmax>746</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+</annotation>

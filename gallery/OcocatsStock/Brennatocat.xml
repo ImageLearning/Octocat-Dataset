@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>Brennatocat.png</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\Brennatocat.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brennatocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>268</ymin>
+			<xmax>660</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>twenty-percent-cooler-octocat.png</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\twenty-percent-cooler-octocat.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>twenty-percent-cooler-octocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>21</ymin>
+			<xmax>784</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+</annotation>

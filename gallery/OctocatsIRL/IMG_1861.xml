@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_1861.JPG</filename>
+	<path>D:\Projects\MachineLearning\DataPreperation\DataSets\octocats\train\IMG_1861.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GitHub-Windows-3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>792</xmin>
+			<ymin>696</ymin>
+			<xmax>3402</xmax>
+			<ymax>2603</ymax>
+		</bndbox>
+	</object>
+</annotation>
