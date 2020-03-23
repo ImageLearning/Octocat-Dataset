@@ -1,11 +1,11 @@
 name: Create Thumbnails, Compressed images, Build Jekyll Site, Branch to Release on Success
 env:
-  URL: "example.pauliver.com"
+  URL: "Octocat-Dataset.imagelearning.community"
   AutoMergeLabel: "automerge"
   GHPages: "gh-pages"
   CurrentBranch: "master"
-  Repo: "Photo-Gallery-Template" #For everything to work properly, the repo should be named example.pauliver.com
-  Owner: "pauliver"
+  Repo: "Octocat-Dataset" #For everything to work properly, the repo should be named example.pauliver.com
+  Owner: "ImageLearning"
  
 on:
   push:
