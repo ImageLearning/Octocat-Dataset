@@ -13,17 +13,32 @@ Gallery_Name: gallery
 
 ----
 <div class="image-container-gallery ImgContainer">
+<a href="resized-IMG_2499.jpg" data-fancybox="gallery/Thumbnails/thumbnail-gallery-IMG_2499.jpg" data-caption="IMG_2499.jpg">
+    <img class="image-thumb" src="https://Octocat-Dataset.imagelearning.community/gallery/Thumbnails/thumbnail-gallery-IMG_2499.jpg" alt="IMG_2499.jpg" />
+</a>
+<a href="resized-IMG_2500.jpg" data-fancybox="gallery/Thumbnails/thumbnail-gallery-IMG_2500.jpg" data-caption="IMG_2500.jpg">
+    <img class="image-thumb" src="https://Octocat-Dataset.imagelearning.community/gallery/Thumbnails/thumbnail-gallery-IMG_2500.jpg" alt="IMG_2500.jpg" />
+</a>
 </div>
 ----
 
-### [Doges]( ./Doges.html)
-[ ![Doges-Thumbnail](/Thumbnails/thumbnail-Doges-00DF49F2-26B4-47FD-B621-5BABC1487215_1_105_c.jpeg)]( ./Doges.html)
+### [Catopus]( ./Catopus.html)
+[ ![Catopus-Thumbnail](/Thumbnails/thumbnail-Catopus-IMG_1961.jpg)]( ./Catopus.html)
 
-### [SubGallery]( ./SubGallery.html)
-[ ![SubGallery-Thumbnail](/Thumbnails/thumbnail-SubGallery-DA860723-B666-4527-B322-3FBEFB26F029_1_105_c.jpeg)]( ./SubGallery.html)
+### [GitHubSponsors]( ./GitHubSponsors.html)
+[ ![GitHubSponsors-Thumbnail](/Thumbnails/thumbnail-GitHubSponsors-IMG_2157.jpg)]( ./GitHubSponsors.html)
 
-### [ZoomBackgrounds]( ./ZoomBackgrounds.html)
-[ ![ZoomBackgrounds-Thumbnail](/Thumbnails/thumbnail-ZoomBackgrounds-Take things and go.jpg)]( ./ZoomBackgrounds.html)
+### [Inspectocat]( ./Inspectocat.html)
+[ ![Inspectocat-Thumbnail](/Thumbnails/thumbnail-Inspectocat-IMG_1866.JPG)]( ./Inspectocat.html)
+
+### [OcocatsStock]( ./OcocatsStock.html)
+[ ![OcocatsStock-Thumbnail](/Thumbnails/thumbnail-OcocatsStock-adventure-cat.png)]( ./OcocatsStock.html)
+
+### [OctocatsIRL]( ./OctocatsIRL.html)
+[ ![OctocatsIRL-Thumbnail](/Thumbnails/thumbnail-OctocatsIRL-IMG_1857.JPG)]( ./OctocatsIRL.html)
+
+### [YesWeCode]( ./YesWeCode.html)
+[ ![YesWeCode-Thumbnail](/Thumbnails/thumbnail-YesWeCode-IMG_2110.jpg)]( ./YesWeCode.html)
 
 
 [Gallery]( ./index.html)
@@ -42,4 +57,4 @@ SetupGallery(".image-container-gallery ImgContainer");
 
 {% include footer.md %}
 
-<!-- created on 03/12/2020 1:21 AM -->
+<!-- created on 03/23/2020 6:57 PM -->

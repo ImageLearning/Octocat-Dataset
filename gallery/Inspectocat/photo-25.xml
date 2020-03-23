@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IRL</folder>
+	<filename>photo-25.jpeg</filename>
+	<path>D:\MachineLearning\Data\DataPreperation\octocats\IRL\photo-25.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inspectocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>673</ymin>
+			<xmax>2351</xmax>
+			<ymax>1987</ymax>
+		</bndbox>
+	</object>
+</annotation>

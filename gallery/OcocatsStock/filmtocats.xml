@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>filmtocats.png</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\filmtocats.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1867</width>
+		<height>1867</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>filmtocats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>481</xmin>
+			<ymin>218</ymin>
+			<xmax>1629</xmax>
+			<ymax>1485</ymax>
+		</bndbox>
+	</object>
+</annotation>

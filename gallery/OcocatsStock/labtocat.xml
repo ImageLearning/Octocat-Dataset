@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>labtocat.png</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\labtocat.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>labtocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>65</ymin>
+			<xmax>731</xmax>
+			<ymax>785</ymax>
+		</bndbox>
+	</object>
+</annotation>

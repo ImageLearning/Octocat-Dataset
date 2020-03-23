@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>bear-cavalry.jpg</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\bear-cavalry.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bear-Cavalry</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>1</ymin>
+			<xmax>740</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+</annotation>

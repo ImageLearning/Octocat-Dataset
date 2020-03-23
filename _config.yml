@@ -2,8 +2,12 @@
 useheader: false 
 include: [/gallery/, /gallery/*, /_data/galleryjson.json]
 exclude: [/coldstorage/OriginalImages/, /coldstorage/OriginalImages/*]
+
 show_drafts: false
+
+baseurl: "/"
+repository: "ImageLearning/Octocat-Dataset"
+
 plugins:
   - jekyll-seo-tag
-baseurl: "/"
-repository: "pauliver/Photo-Gallery-Template"
+google_analytics: UA-161446082-1

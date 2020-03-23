@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IRL</folder>
+	<filename>IMG_2117.jpg</filename>
+	<path>D:\MachineLearning\Data\DataPreperation\octocats\IRL\IMG_2117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Baracktocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1283</xmin>
+			<ymin>1079</ymin>
+			<xmax>1686</xmax>
+			<ymax>1591</ymax>
+		</bndbox>
+	</object>
+</annotation>
