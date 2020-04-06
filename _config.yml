@@ -3,6 +3,8 @@ useheader: false
 include: [/gallery/, /gallery/*, /_data/galleryjson.json]
 exclude: [/coldstorage/OriginalImages/, /coldstorage/OriginalImages/*]
 
+url: octocat-dataset.imagelearning.community
+
 show_drafts: false
 
 baseurl: "/"
