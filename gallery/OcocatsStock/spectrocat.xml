@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>spectrocat.png</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\spectrocat.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spectrocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>86</ymin>
+			<xmax>698</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>

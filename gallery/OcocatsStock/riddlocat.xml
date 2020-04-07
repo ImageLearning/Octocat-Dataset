@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>riddlocat.jpg</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\riddlocat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>riddleocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>6</ymin>
+			<xmax>781</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+</annotation>

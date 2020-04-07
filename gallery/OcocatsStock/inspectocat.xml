@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>inspectocat.jpg</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\inspectocat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inspectocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>39</ymin>
+			<xmax>735</xmax>
+			<ymax>866</ymax>
+		</bndbox>
+	</object>
+</annotation>

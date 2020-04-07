@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>okal-eltocat.jpg</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\okal-eltocat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>okal-eltocat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>1</ymin>
+			<xmax>706</xmax>
+			<ymax>690</ymax>
+		</bndbox>
+	</object>
+</annotation>

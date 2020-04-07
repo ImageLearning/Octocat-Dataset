@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>dunetocat.png</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\dunetocat.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dunetocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>142</ymin>
+			<xmax>863</xmax>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+</annotation>
