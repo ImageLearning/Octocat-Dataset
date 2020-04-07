@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IRL</folder>
+	<filename>IMG_1964.jpg</filename>
+	<path>D:\Projects\MachineLearning\DataPreperation\DataSets\octocats\IRL\IMG_1964.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Octocat-OffBrand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1302</xmin>
+			<ymin>616</ymin>
+			<xmax>2295</xmax>
+			<ymax>1360</ymax>
+		</bndbox>
+	</object>
+</annotation>
