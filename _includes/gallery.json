@@ -142,7 +142,7 @@
           "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-Catopus-IMG_1972.jpg"
         }
       ],
-      "GeneratedDateTime": "4/7/2020 4:04:41 PM"
+      "GeneratedDateTime": "4/7/2020 5:16:36 PM"
     },
     {
       "GalleryName": "GitHubSponsors",
@@ -388,7 +388,7 @@
           "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-GitHubSponsors-IMG_2496.jpg"
         }
       ],
-      "GeneratedDateTime": "4/7/2020 4:04:41 PM"
+      "GeneratedDateTime": "4/7/2020 5:16:36 PM"
     },
     {
       "GalleryName": "Inspectocat",
@@ -697,7 +697,1369 @@
           "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-Inspectocat-photo-28.jpeg"
         }
       ],
-      "GeneratedDateTime": "4/7/2020 4:04:41 PM"
+      "GeneratedDateTime": "4/7/2020 5:16:36 PM"
+    },
+    {
+      "GalleryName": "OcocatsStock",
+      "DirectoryName": "/OcocatsStock",
+      "FullDirectoryPath": "/gallery/OcocatsStock",
+      "GalleryIndexHTMLFile": "/gallery/OcocatsStock.html",
+      "GalleryIndexMarkdownFile": "/gallery/OcocatsStock.md",
+      "GalleryThumbnail": "gallery\\Thumbnails\\thumbnail-OcocatsStock-adventure-cat.png",
+      "PhotoGalleries": [],
+      "Images": [
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "adventure-cat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\adventure-cat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-adventure-cat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-adventure-cat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "agendacat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\agendacat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-agendacat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-agendacat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "aidorucat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\aidorucat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-aidorucat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-aidorucat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "andycat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\andycat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-andycat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-andycat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "bannekat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\bannekat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-bannekat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-bannekat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "baracktocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\baracktocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-baracktocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-baracktocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "bear-cavalry.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\bear-cavalry.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-bear-cavalry.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-bear-cavalry.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "benevocats.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\benevocats.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-benevocats.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-benevocats.png"
+        },
+        {
+          "ImageWidth": 876,
+          "ImageHeight": 876,
+          "Name": "bewitchedtocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\bewitchedtocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-bewitchedtocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-bewitchedtocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "blacktocats.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\blacktocats.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-blacktocats.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-blacktocats.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "bouncer.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\bouncer.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-bouncer.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-bouncer.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "bouncercat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\bouncercat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-bouncercat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-bouncercat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "boxertocat_octodex.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\boxertocat_octodex.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-boxertocat_octodex.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-boxertocat_octodex.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "Brennatocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\Brennatocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-Brennatocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-Brennatocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "catstello.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\catstello.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-catstello.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-catstello.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "chellocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\chellocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-chellocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-chellocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "cherryontop-o-cat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\cherryontop-o-cat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-cherryontop-o-cat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-cherryontop-o-cat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "class-act.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\class-act.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-class-act.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-class-act.png"
+        },
+        {
+          "ImageWidth": 3142,
+          "ImageHeight": 3194,
+          "Name": "clippy_octocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\clippy_octocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-clippy_octocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-clippy_octocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "cloud.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\cloud.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-cloud.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-cloud.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "codercat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\codercat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-codercat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-codercat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "collabocats.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\collabocats.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-collabocats.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-collabocats.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "constructocat2.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\constructocat2.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-constructocat2.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-constructocat2.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "deckfailcat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\deckfailcat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-deckfailcat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-deckfailcat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "defunktocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\defunktocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-defunktocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-defunktocat.png"
+        },
+        {
+          "ImageWidth": 1200,
+          "ImageHeight": 627,
+          "Name": "DeZRh7AUwAAMMJd.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\DeZRh7AUwAAMMJd.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-DeZRh7AUwAAMMJd.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-DeZRh7AUwAAMMJd.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "dinotocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\dinotocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-dinotocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-dinotocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "doctocat-brown.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\doctocat-brown.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-doctocat-brown.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-doctocat-brown.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "dodgetocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\dodgetocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-dodgetocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-dodgetocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "dodgetocat_v2.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\dodgetocat_v2.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-dodgetocat_v2.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-dodgetocat_v2.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "dojocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\dojocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-dojocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-dojocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "droctocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\droctocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-droctocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-droctocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "droidtocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\droidtocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-droidtocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-droidtocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "drunktocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\drunktocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-drunktocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-drunktocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "drupalcat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\drupalcat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-drupalcat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-drupalcat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "dunetocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\dunetocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-dunetocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-dunetocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "electrocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\electrocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-electrocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-electrocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "father_timeout.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\father_timeout.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-father_timeout.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-father_timeout.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "femalecodertocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\femalecodertocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-femalecodertocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-femalecodertocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "filmtocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\filmtocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-filmtocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-filmtocat.png"
+        },
+        {
+          "ImageWidth": 1867,
+          "ImageHeight": 1867,
+          "Name": "filmtocats.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\filmtocats.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-filmtocats.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-filmtocats.png"
+        },
+        {
+          "ImageWidth": 1260,
+          "ImageHeight": 1260,
+          "Name": "Fintechtocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\Fintechtocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-Fintechtocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-Fintechtocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "forktocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\forktocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-forktocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-forktocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "founding-father.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\founding-father.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-founding-father.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-founding-father.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "foundingfather_v2.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\foundingfather_v2.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-foundingfather_v2.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-foundingfather_v2.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "front-end-conftocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\front-end-conftocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-front-end-conftocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-front-end-conftocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "gangnamtocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\gangnamtocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-gangnamtocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-gangnamtocat.png"
+        },
+        {
+          "ImageWidth": 730,
+          "ImageHeight": 387,
+          "Name": "github-octocat-microsoft.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\github-octocat-microsoft.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-github-octocat-microsoft.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-github-octocat-microsoft.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "goretocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\goretocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-goretocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-goretocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "gracehoppertocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\gracehoppertocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-gracehoppertocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-gracehoppertocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "grim-repo.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\grim-repo.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-grim-repo.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-grim-repo.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "hanukkat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\hanukkat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-hanukkat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-hanukkat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "heisencat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\heisencat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-heisencat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-heisencat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "herme-t-crabb.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\herme-t-crabb.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-herme-t-crabb.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-herme-t-crabb.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "hipster-partycat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\hipster-partycat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-hipster-partycat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-hipster-partycat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "homercat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\homercat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-homercat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-homercat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "hubot.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\hubot.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-hubot.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-hubot.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "inflatocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\inflatocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-inflatocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-inflatocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "inspectocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\inspectocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-inspectocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-inspectocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "ironcat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\ironcat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-ironcat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-ironcat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "jean-luc-picat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\jean-luc-picat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-jean-luc-picat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-jean-luc-picat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "jenktocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\jenktocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-jenktocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-jenktocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "jetpacktocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\jetpacktocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-jetpacktocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-jetpacktocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "justicetocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\justicetocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-justicetocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-justicetocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "kimonotocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\kimonotocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-kimonotocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-kimonotocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "labtocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\labtocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-labtocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-labtocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "linktocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\linktocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-linktocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-linktocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "luchadortocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\luchadortocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-luchadortocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-luchadortocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "Mardigrastocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\Mardigrastocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-Mardigrastocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-Mardigrastocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "mcefeeline.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\mcefeeline.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-mcefeeline.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-mcefeeline.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "megacat-2.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\megacat-2.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-megacat-2.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-megacat-2.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "megacat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\megacat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-megacat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-megacat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "minertocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\minertocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-minertocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-minertocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "minion.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\minion.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-minion.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-minion.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "momtocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\momtocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-momtocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-momtocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "mona-lovelace.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\mona-lovelace.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-mona-lovelace.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-mona-lovelace.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "monroe.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\monroe.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-monroe.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-monroe.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "motherhubbertocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\motherhubbertocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-motherhubbertocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-motherhubbertocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "mountietocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\mountietocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-mountietocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-mountietocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "murakamicat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\murakamicat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-murakamicat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-murakamicat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "notocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\notocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-notocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-notocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "octdrey-catburn.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\octdrey-catburn.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-octdrey-catburn.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-octdrey-catburn.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "octobiwan.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\octobiwan.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-octobiwan.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-octobiwan.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "octocat-de-los-muertos.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\octocat-de-los-muertos.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-octocat-de-los-muertos.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-octocat-de-los-muertos.jpg"
+        },
+        {
+          "ImageWidth": 800,
+          "ImageHeight": 665,
+          "Name": "Octocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\Octocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-Octocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-Octocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "octoclark-kentocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\octoclark-kentocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-octoclark-kentocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-octoclark-kentocat.jpg"
+        },
+        {
+          "ImageWidth": 2479,
+          "ImageHeight": 2369,
+          "Name": "OCTOCORN.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\OCTOCORN.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-OCTOCORN.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-OCTOCORN.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "octofez.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\octofez.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-octofez.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-octofez.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "octoliberty.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\octoliberty.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-octoliberty.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-octoliberty.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "octonaut.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\octonaut.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-octonaut.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-octonaut.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 897,
+          "Name": "octotron.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\octotron.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-octotron.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-octotron.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "okal-eltocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\okal-eltocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-okal-eltocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-okal-eltocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "oktobercat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\oktobercat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-oktobercat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-oktobercat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "oktobercat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\oktobercat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-oktobercat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-oktobercat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "orderedlistocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\orderedlistocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-orderedlistocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-orderedlistocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "orderedlistocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\orderedlistocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-orderedlistocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-orderedlistocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "original.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\original.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-original.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-original.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "original.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\original.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-original.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-original.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "pacman-ghosts.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\pacman-ghosts.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-pacman-ghosts.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-pacman-ghosts.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "plumber.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\plumber.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-plumber.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-plumber.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "poptocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\poptocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-poptocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-poptocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "poptocat_v2.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\poptocat_v2.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-poptocat_v2.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-poptocat_v2.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "privateinvestocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\privateinvestocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-privateinvestocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-privateinvestocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "Professortocat_v2.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\Professortocat_v2.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-Professortocat_v2.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-Professortocat_v2.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "puddle_jumper_octodex.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\puddle_jumper_octodex.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-puddle_jumper_octodex.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-puddle_jumper_octodex.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "puppeteer.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\puppeteer.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-puppeteer.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-puppeteer.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "pusheencat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\pusheencat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-pusheencat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-pusheencat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "pythocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\pythocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-pythocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-pythocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "red-polo.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\red-polo.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-red-polo.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-red-polo.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "repo.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\repo.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-repo.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-repo.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "riddlocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\riddlocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-riddlocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-riddlocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "Robotocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\Robotocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-Robotocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-Robotocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "rodeotocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\rodeotocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-rodeotocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-rodeotocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "saint-nicktocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\saint-nicktocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-saint-nicktocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-saint-nicktocat.jpg"
+        },
+        {
+          "ImageWidth": 876,
+          "ImageHeight": 876,
+          "Name": "saint_nictocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\saint_nictocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-saint_nictocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-saint_nictocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "saketocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\saketocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-saketocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-saketocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "saritocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\saritocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-saritocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-saritocat.png"
+        },
+        {
+          "ImageWidth": 500,
+          "ImageHeight": 500,
+          "Name": "scarletteocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\scarletteocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-scarletteocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-scarletteocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "scottocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\scottocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-scottocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-scottocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "scubatocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\scubatocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-scubatocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-scubatocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "Sentrytocat_octodex.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\Sentrytocat_octodex.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-Sentrytocat_octodex.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-Sentrytocat_octodex.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "setuptocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\setuptocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-setuptocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-setuptocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "shoptocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\shoptocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-shoptocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-shoptocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "skatetocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\skatetocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-skatetocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-skatetocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 894,
+          "Name": "skitchtocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\skitchtocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-skitchtocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-skitchtocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "snowoctocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\snowoctocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-snowoctocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-snowoctocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "snowtocat_final.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\snowtocat_final.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-snowtocat_final.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-snowtocat_final.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "socialite.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\socialite.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-socialite.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-socialite.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "spectrocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\spectrocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-spectrocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-spectrocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "spidertocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\spidertocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-spidertocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-spidertocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "spocktocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\spocktocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-spocktocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-spocktocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "steroidtocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\steroidtocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-steroidtocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-steroidtocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "stormtroopocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\stormtroopocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-stormtroopocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-stormtroopocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "strongbadtocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\strongbadtocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-strongbadtocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-strongbadtocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "supportcat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\supportcat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-supportcat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-supportcat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "surftocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\surftocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-surftocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-surftocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "swagtocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\swagtocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-swagtocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-swagtocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "tentocats.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\tentocats.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-tentocats.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-tentocats.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "thanktocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\thanktocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-thanktocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-thanktocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "topguntocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\topguntocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-topguntocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-topguntocat.png"
+        },
+        {
+          "ImageWidth": 500,
+          "ImageHeight": 500,
+          "Name": "total-eclipse-of-the-octocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\total-eclipse-of-the-octocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-total-eclipse-of-the-octocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-total-eclipse-of-the-octocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "trekkie.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\trekkie.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-trekkie.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-trekkie.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "twenty-percent-cooler-octocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\twenty-percent-cooler-octocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-twenty-percent-cooler-octocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-twenty-percent-cooler-octocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "vinyltocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\vinyltocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-vinyltocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-vinyltocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "visionary.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\visionary.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-visionary.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-visionary.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "waldocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\waldocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-waldocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-waldocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "welcometocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\welcometocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-welcometocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-welcometocat.png"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "wilson.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\wilson.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-wilson.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-wilson.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "xtocat.jpg",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\xtocat.jpg",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-xtocat.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-xtocat.jpg"
+        },
+        {
+          "ImageWidth": 896,
+          "ImageHeight": 896,
+          "Name": "yaktocat.png",
+          "Folder": "/gallery/OcocatsStock",
+          "OriginalFilePath": "gallery\\OcocatsStock\\yaktocat.png",
+          "ResizedFilePath": "gallery\\OcocatsStock\\resized-yaktocat.png",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OcocatsStock-yaktocat.png"
+        }
+      ],
+      "GeneratedDateTime": "4/7/2020 5:16:36 PM"
     },
     {
       "GalleryName": "OctocatsIRL",
@@ -1600,7 +2962,7 @@
           "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-OctocatsIRL-photo-9.jpeg"
         }
       ],
-      "GeneratedDateTime": "4/7/2020 4:04:41 PM"
+      "GeneratedDateTime": "4/7/2020 5:16:36 PM"
     },
     {
       "GalleryName": "YesWeCode",
@@ -2206,7 +3568,7 @@
           "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-YesWeCode-photo-63.jpeg"
         }
       ],
-      "GeneratedDateTime": "4/7/2020 4:04:41 PM"
+      "GeneratedDateTime": "4/7/2020 5:16:36 PM"
     }
   ],
   "Images": [
@@ -2229,5 +3591,5 @@
       "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-gallery-IMG_2500.jpg"
     }
   ],
-  "GeneratedDateTime": "4/7/2020 4:04:41 PM"
+  "GeneratedDateTime": "4/7/2020 5:16:36 PM"
 }
