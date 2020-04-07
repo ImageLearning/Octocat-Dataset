@@ -22,6 +22,18 @@ Gallery_Name: gallery
 </div>
 ----
 
+### [Catopus]( ./Catopus.html)
+[ ![Catopus-Thumbnail](/Thumbnails/thumbnail-Catopus-IMG_1961.jpg)]( ./Catopus.html)
+
+### [GitHubSponsors]( ./GitHubSponsors.html)
+[ ![GitHubSponsors-Thumbnail](/Thumbnails/thumbnail-GitHubSponsors-IMG_2157.jpg)]( ./GitHubSponsors.html)
+
+### [Inspectocat]( ./Inspectocat.html)
+[ ![Inspectocat-Thumbnail](/Thumbnails/thumbnail-Inspectocat-IMG_1866.JPG)]( ./Inspectocat.html)
+
+### [OctocatsIRL]( ./OctocatsIRL.html)
+[ ![OctocatsIRL-Thumbnail](/Thumbnails/thumbnail-OctocatsIRL-IMG_1857.JPG)]( ./OctocatsIRL.html)
+
 ### [YesWeCode]( ./YesWeCode.html)
 [ ![YesWeCode-Thumbnail](/Thumbnails/thumbnail-YesWeCode-IMG_2110.jpg)]( ./YesWeCode.html)
 
@@ -42,4 +54,4 @@ SetupGallery(".image-container-gallery ImgContainer");
 
 {% include footer.md %}
 
-<!-- created on 04/07/2020 3:48 PM -->
+<!-- created on 04/07/2020 4:04 PM -->
