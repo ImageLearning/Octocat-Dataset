@@ -31,6 +31,9 @@ Gallery_Name: gallery
 ### [Inspectocat]( ./Inspectocat.html)
 [ ![Inspectocat-Thumbnail](/Thumbnails/thumbnail-Inspectocat-IMG_1866.JPG)]( ./Inspectocat.html)
 
+### [OcocatsStock]( ./OcocatsStock.html)
+[ ![OcocatsStock-Thumbnail](/Thumbnails/thumbnail-OcocatsStock-adventure-cat.png)]( ./OcocatsStock.html)
+
 ### [OctocatsIRL]( ./OctocatsIRL.html)
 [ ![OctocatsIRL-Thumbnail](/Thumbnails/thumbnail-OctocatsIRL-IMG_1857.JPG)]( ./OctocatsIRL.html)
 
@@ -54,4 +57,4 @@ SetupGallery(".image-container-gallery ImgContainer");
 
 {% include footer.md %}
 
-<!-- created on 04/07/2020 4:04 PM -->
+<!-- created on 04/07/2020 5:16 PM -->

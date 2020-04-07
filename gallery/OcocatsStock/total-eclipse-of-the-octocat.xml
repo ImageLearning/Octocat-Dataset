@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>total-eclipse-of-the-octocat.jpg</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\total-eclipse-of-the-octocat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>total-eclipse-of-the-octocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>85</ymin>
+			<xmax>402</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

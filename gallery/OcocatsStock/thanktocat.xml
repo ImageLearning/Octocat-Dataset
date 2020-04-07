@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>thanktocat.jpg</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\thanktocat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thanktocat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>60</ymin>
+			<xmax>813</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>

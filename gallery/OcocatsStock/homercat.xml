@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stock Cats</folder>
+	<filename>homercat.png</filename>
+	<path>D:\Projects\MachineLearning\DataSets\octocats\Stock Cats\homercat.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>homercat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>42</ymin>
+			<xmax>720</xmax>
+			<ymax>754</ymax>
+		</bndbox>
+	</object>
+</annotation>
